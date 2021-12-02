@@ -1,3 +1,7 @@
+---
+title: TOTEP - Aims and Intentions
+date: "2021-12-02"
+---
 My music video will attempt to incorporate the codes and conventions of music videos into a narrative performance. This should present themes of resilience in the face of adversity.
 
 I intend for the video's presentation to adhere closely to the conventions used in the alternative indie genre, in a way that will appeal to the target demographic.

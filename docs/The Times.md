@@ -1,3 +1,7 @@
+---
+title: The Times
+date: "2021-12-02"
+---
 # The Times
 *my, my, how respectable*
 #topic/newspapers #set-text

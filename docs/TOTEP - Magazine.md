@@ -1,3 +1,7 @@
+---
+title: TOTEP - Magazine
+date: "2021-12-02"
+---
 Double page article (or extract from a longer article), approximately 300 words including: 
 - Details of the latest single release/ availability of the music video
 - An interview with the artist or band discussing the concept for the music video and the process of making it.

@@ -1,3 +1,7 @@
+---
+title: Theories
+date: "2021-12-02"
+---
 # Theories 🧠
 *but that's just a theory...*
 #theory 
@@ -11,7 +15,7 @@ Theorists and theories make up the bread and butter and meat and potatoes and ca
 ## Categories of Theorist
 We can help leverage theorists with the help of the *core media tenets*. So basically...
 
-- [[Media Language - Theory]] - The framework by which media is communicated and by which **meaning can be extracted**.
-- [[Representation - Theory]] - How does the text deal with and present particular **groups**, *ideologies*, **experiences** or *topics*.
-- [[Media Industries]] - Who is the media **controlled by**, and *why* is it done that way? How is media **profitable**?
-- [[Audiences]] - The people that receive the media text, what are its **effects** on them?
+- [Media Language - Theory](Media%20Language%20-%20Theory) - The framework by which media is communicated and by which **meaning can be extracted**.
+- [Representation - Theory](Representation%20-%20Theory) - How does the text deal with and present particular **groups**, *ideologies*, **experiences** or *topics*.
+- [Media Industries](Media%20Industries) - Who is the media **controlled by**, and *why* is it done that way? How is media **profitable**?
+- [Audiences](Audiences) - The people that receive the media text, what are its **effects** on them?
